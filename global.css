@@ -1,0 +1,38 @@
+.mainBlock{
+    font-size: large;
+    border: 2px solid black;
+    width: 400px;
+    margin-top: 200px;
+    margin-left: 400px;
+    text-align: center;
+    padding-bottom: 30px;
+    
+
+}
+
+.btnBlock{
+    justify-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: blueviolet;
+}
+#btn{
+    height: 50px;
+    width: 100px;
+    background-color: brown;
+    color: white;
+}
+#btn1{
+    height: 50px;
+    width: 100px;
+    background-color: brown;
+    color: white;
+}
+#btn2{
+    height: 50px;
+    width: 100px;
+    background-color: brown;
+    color: white;
+}
